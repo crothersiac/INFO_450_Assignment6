@@ -1,10 +1,13 @@
 Dataset:
 https://www.kaggle.com/datasets/mohamedalishiha/electric-vehicles
-Electric Vehicles in 2022
+Electric Vehicles 
+On the market until 2023
 
 Question:
-For people looking for the highest mileage electric vehicle, which 20 brands offer the best battery range within the dataset?
+For people looking for the highest mileage electric vehicle, which 20 cars offer the best battery range within the dataset? 
+Offer the best charge speed?
 
 Explanation:
-
-
+The data that I was able to pull off of Kaggle dealt with the multiple sets of data representing the specifications 
+and limits of many electric vehicles currently on the market. I chose to look into the average Voltage per ‘gallon” of 
+electricity used within these vehicles, to see the most cost effective distance driver. 
