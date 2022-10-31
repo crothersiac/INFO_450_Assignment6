@@ -9,5 +9,17 @@ Offer the best charge speed?
 
 Explanation:
 The data that I was able to pull off of Kaggle dealt with the multiple sets of data representing the specifications 
-and limits of many electric vehicles currently on the market. I chose to look into the average Voltage per ‘gallon” of 
-electricity used within these vehicles, to see the most cost effective distance driver. 
+and limits of many electric vehicles currently on the market. I chose to look into the average kW per ‘gallon” of electricity 
+used within these vehicles, to see the most cost effective distance driver. From the data that I was able to process, I was 
+able to find that Renault offers the highest kWh per ‘gallon’ from the pack, with its highest values seeing about 6.3 kW per 
+given mile of driving. This vehicle is closely followed by two other vehicles offered by Renault, all of which also offer 
+some of the fastest charging times per vehicle. Renault vehicles seem to boast a great fuel mileage when compared to other 
+electric vehicles, as well as a charge time that is almost 1.5x times faster than most of the following competition. 
+Whether they trump the competition in longevity, they do fall a tad short in the way of overall top speed, with the 
+likes of Tesla, Kia, and Porshe solidifying their positions in the top 3 of that bracket.
+
+
+
+Link to Google Doc:
+https://docs.google.com/document/d/1QMgedF7RBUhD0ZoPixHlcMOFL8_yhc83ftbiD_B5qhI/edit
+ 
