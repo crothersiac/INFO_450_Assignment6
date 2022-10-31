@@ -15,8 +15,10 @@ able to find that Renault offers the highest kWh per ‘gallon’ from the pack,
 given mile of driving. This vehicle is closely followed by two other vehicles offered by Renault, all of which also offer 
 some of the fastest charging times per vehicle. Renault vehicles seem to boast a great fuel mileage when compared to other 
 electric vehicles, as well as a charge time that is almost 1.5x times faster than most of the following competition. 
-Whether they trump the competition in longevity, they do fall a tad short in the way of overall top speed, with the 
-likes of Tesla, Kia, and Porshe solidifying their positions in the top 3 of that bracket.
+The next closest performing companies that could even try to compete with Renault were non-surprisingly Tesla, but also 
+Hyundai, with a vehicle that offered decent kWh per ‘gallon’, and a very close charging time to the pack leader. 
+Whether they trump the competition in longevity, they do fall a tad short in the way of overall top speed, with the likes 
+of Tesla, Kia, and Porshe solidifying their positions in the top 3 of that bracket.
 
 
 
